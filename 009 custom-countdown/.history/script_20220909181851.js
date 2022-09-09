@@ -1,0 +1,1 @@
+const inputContainer = document.getElementById('input-container')

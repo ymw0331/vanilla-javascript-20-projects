@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Sen&display=swap');
+
+html {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: Sen, sans-serif;
+  letter-spacing: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #c9ced3;
+
+}
+
+.container{
+  width: 480px;
+  height: ;
+}

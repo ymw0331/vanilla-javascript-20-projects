@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+html {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: linear-gradient(180deg, #FFFFFF 0%, #F3F8F7 49.91%, #FFF9F5 94.19%);
+
+}
+
+.wrapper {
+  position: relative;
+  width: 1440px;
+  min-height: 100vh;
+  margin: auto;
+  background: dodgerblue;
+}

@@ -1,2 +1,0 @@
-// NASA API
-const apiUR

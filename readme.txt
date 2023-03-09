@@ -1,5 +1,14 @@
-List of projects that I learned from ZtM JS-20-projects course, to be used as references for future project.
+List of projects that I learned from ZTM JS-20-Projects course, to be used as references for future project
 -----------------------------------------------------------------------------------------------------------
+What I have learned: 
+-	20 projects with pure JavaScript, HTML5, CSS3.
+-	Learn UI/UX practices to build responsive and mobile first web applications.
+-	Asynchronous programming with AJAX, Fetch API, Promises & Async + Await.
+-	Write clean, maintainable and performant JavaScript code.
+-	Work with Web APIs (localStorage, DOM, + more)
+-	Modern HTML5 (Canvas, Video, Audio + more)
+-	Modern CSS3 (Animations, Transitions, Variables + more)
+
 
 Quote Generator - Fetch, Async/Await, Quote API, CORS
 => http://wayney-quote-generator.s3-website-ap-southeast-1.amazonaws.com/

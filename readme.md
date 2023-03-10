@@ -55,7 +55,7 @@
 **Nasa Pod** - *Fetch, Async/Await, NASA API, DOM, localStorage*<br>
 🔗 <https://vjs-wayney-nasa-apod.netlify.app/>
 
-**Math Sprint** - *SetInterval, DOM, Array Methods, localStorage*
+**Math Sprint** - *SetInterval, DOM, Array Methods, localStorage*<br>
 🔗 <https://vjs-wayney-math-sprint.netlify.app/>
 
 **Drag and Drop** - *Drag and Drop API, localStorage*<br>

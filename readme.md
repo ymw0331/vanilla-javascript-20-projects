@@ -14,61 +14,61 @@
 </ul>
 
 **Quote Generator** - *Fetch, Async/Await, Quote API, CORS*<br>
-=> <http://wayney-quote-generator.s3-website-ap-southeast-1.amazonaws.com/>
+🔗 <https://vjs-wayney-quote-generator.netlify.app/>
 
 **Infinity Scroll** - *Fetch, Async/Await, Unsplash API, DOM, Scroll Event Listener*<br>
-=> <http://wayney-infinity-scroll.s3-website-ap-southeast-1.amazonaws.com/>
+🔗 <https://vjs-wayney-infinity-scroll.netlify.app/>
 
 **Joke Teller** - *Fetch, Async/Await, Joke API, Text-to-Speech*<br>
-=> <http://wayney-joke-teller.s3-website-ap-southeast-1.amazonaws.com>
+🔗 <https://vjs-wayney-joke-teller.netlify.app/>
 
 **Picture in Picture** - *Screen Capture API*<br>
-=> <http://wayney-picture-in-picture.s3-website-ap-southeast-1.amazonaws.com/>
+🔗 <https://vjs-wayney-picture-in-picture.netlify.app/>
 
 **Light & Dark Mode** - *DOM, localStorage*<br>
-=> <http://wayney-light-dark-mode.s3-website-ap-southeast-1.amazonaws.com/>
+🔗 <https://vjs-wayney-light-dark-mode.netlify.app/>
 
 **Animated** - *Template, AOS.js*<br>
-=> <http://wayney-animated.s3-website-ap-southeast-1.amazonaws.com/>
+🔗 <https://vjs-wayney-animated.netlify.app/>
 
 **Navigation Nation** - *CSS Animations*<br>
-=> <http://wayney-navigation-nation.s3-website-ap-southeast-1.amazonaws.com/>
+🔗 <https://vjs-wayney-navigation-nation.netlify.app/>
 
 **Music Player** - *HTML 5 Audio API*<br>
-=> <http://wayney-music-player.s3-website-ap-southeast-1.amazonaws.com/>
+🔗 <https://vjs-wayney-music-player.netlify.app/>
 
 **Custom Countdown** - *Date, localStorage*<br>
-=> <http://wayney-custom-countdown.s3-website-ap-southeast-1.amazonaws.com/>
+🔗 <https://vjs-wayney-custom-countdown.netlify.app/>
 
 **Book Keeper** - *DOM, localStorage*<br>
-=> <http://wayney-book-keeper.s3-website-ap-southeast-1.amazonaws.com/>
+🔗 <https://vjs-wayney-book-keeper.netlify.app/>
 
 **Video Player** - *HTML 5 Video API*<br>
-=> <http://wayney-video-player.s3-website-ap-southeast-1.amazonaws.com/>
+🔗 <https://vjs-wayney-video-player.netlify.app/>
 
 **Form Validator** - *DOM, Forms*<br>
-=> <http://wayney-form-validator.s3-website-ap-southeast-1.amazonaws.com/>
+🔗 <https://vjs-wayney-form-validator.netlify.app/>
 
 **Spock Rock Game** - *Confetti.js, Modules*<br>
-=> <http://wayney-spock-rock-game.s3-website-ap-southeast-1.amazonaws.com/>
+🔗 <https://vjs-wayney-spock-rock-game.netlify.app/>
 
 **Nasa Pod** - *Fetch, Async/Await, NASA API, DOM, localStorage*<br>
-=> <http://wayney-nasa-apod.s3-website-ap-southeast-1.amazonaws.com/>
+🔗 <https://vjs-wayney-nasa-apod.netlify.app/>
 
 **Math Sprint** - *SetInterval, DOM, Array Methods, localStorage*
-=> <http://wayney-math-sprint.s3-website-ap-southeast-1.amazonaws.com/>
+🔗 <https://vjs-wayney-math-sprint.netlify.app/>
 
 **Drag and Drop** - *Drag and Drop API, localStorage*<br>
-=> <http://wayney-drag-and-drop.s3-website-ap-southeast-1.amazonaws.com/>
+🔗 <https://vjs-wayney-drag-and-drop.netlify.app/>
 
 **Calculator** - *Math Methods*<br>
-=> <http://wayney-calculator.s3-website-ap-southeast-1.amazonaws.com/>
+🔗 <https://vjs-wayney-calculator.netlify.app/>
 
 **Splash Page** - *DOM Basics*<br>
-=> <http://wayney-splash-page.s3-website-ap-southeast-1.amazonaws.com/>
+🔗 <https://vjs-wayney-splash-page.netlify.app/>
 
 **Paint Clone**  - *Advanced HTML Canvas, localStorage*<br>
-=> <http://wayney-paint-clone.s3-website-ap-southeast-1.amazonaws.com/>
+🔗 <https://vjs-wayney-paint-clone.netlify.app/>
 
 **Ping Pong** - *Advanced HTML Canvas*<br>
-=> <http://wayney-ping-pong.s3-website-ap-southeast-1.amazonaws.com/>
+🔗 <https://vjs-wayney-ping-pong.netlify.app/>

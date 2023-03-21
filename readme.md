@@ -12,6 +12,7 @@ Here is a list of the projects, along with the technologies and APIs used:
 **Quote Generator** - _Fetch, Async/Await, Quote API, CORS_<br>
 <em>Generate inspirational quotes with this web app, which uses the Fetch API to retrieve quotes from an external Quote API. Async/Await is used to handle asynchronous programming, and CORS is used to allow cross-origin resource sharing.
 </em>
+  
 🔗 <https://vjs-wayney-quote-generator.netlify.app/>
 
 </li>
@@ -22,6 +23,7 @@ Here is a list of the projects, along with the technologies and APIs used:
 <em>
 This web app displays an infinite scroll of images, loaded dynamically using the Unsplash API. The Fetch API is used to make API calls, and Async/Await is used to handle asynchronous programming. The DOM and Scroll Event Listener are used to detect when the user has scrolled to the bottom of the page and needs to load more images.
 </em>
+  
 🔗 <https://vjs-wayney-infinity-scroll.netlify.app/>
 
 </li>

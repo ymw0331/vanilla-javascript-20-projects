@@ -27,6 +27,7 @@ This web app displays an infinite scroll of images, loaded dynamically using the
 </li>
 
 <li>
+
 **Joke Teller** - _Fetch, Async/Await, Joke API, Text-to-Speech_<br>
 <em>
 This fun web app tells jokes using the Fetch API to retrieve jokes from an external Joke API. Async/Await is used to handle asynchronous programming, and Text-to-Speech is used to voice the jokes aloud.
@@ -37,6 +38,7 @@ This fun web app tells jokes using the Fetch API to retrieve jokes from an exter
 </li>
 
 <li>
+
 **Picture in Picture** - _Screen Capture API_<br>
 <em>
 This web app allows you to open a video in Picture-in-Picture mode, which lets you watch the video in a small floating window on top of other windows. It uses the Screen Capture API to capture a portion of the screen and display it in the Picture-in-Picture window.

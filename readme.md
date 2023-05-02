@@ -2,7 +2,6 @@
 
 ##### This is a list of 20 projects that I learned from the ZTM JS-20-Projects course, which I can use as references for future projects. Each project was built using pure JavaScript, HTML5, and CSS3, and taught me best practices for building responsive and mobile-first web applications.
 
-
 Here is a list of the projects, along with the technologies and APIs used:
 
 <ol>
@@ -10,9 +9,10 @@ Here is a list of the projects, along with the technologies and APIs used:
 <li>
 
 **Quote Generator** - _Fetch, Async/Await, Quote API, CORS_<br>
-<em>Generate inspirational quotes with this web app, which uses the Fetch API to retrieve quotes from an external Quote API. Async/Await is used to handle asynchronous programming, and CORS is used to allow cross-origin resource sharing.
+<em>
+Generates inspirational quotes using the Fetch API, Async/Await, and CORS to retrieve quotes from an external API.
 </em>
-  
+
 🔗 <https://vjs-wayney-quote-generator.netlify.app/>
 
 </li>
@@ -21,9 +21,9 @@ Here is a list of the projects, along with the technologies and APIs used:
 
 **Infinity Scroll** - _Fetch, Async/Await, Unsplash API, DOM, Scroll Event Listener_<br>
 <em>
-This web app displays an infinite scroll of images, loaded dynamically using the Unsplash API. The Fetch API is used to make API calls, and Async/Await is used to handle asynchronous programming. The DOM and Scroll Event Listener are used to detect when the user has scrolled to the bottom of the page and needs to load more images.
+Displays an infinite scroll of images by dynamically loading images from the Unsplash API using the Fetch API, Async/Await, and the DOM and Scroll Event Listener.
 </em>
-  
+
 🔗 <https://vjs-wayney-infinity-scroll.netlify.app/>
 
 </li>
@@ -32,7 +32,7 @@ This web app displays an infinite scroll of images, loaded dynamically using the
 
 **Joke Teller** - _Fetch, Async/Await, Joke API, Text-to-Speech_<br>
 <em>
-This fun web app tells jokes using the Fetch API to retrieve jokes from an external Joke API. Async/Await is used to handle asynchronous programming, and Text-to-Speech is used to voice the jokes aloud.
+Tells jokes by retrieving them from an external Joke API using the Fetch API and Async/Await, and voices the jokes aloud using Text-to-Speech.
 </em>
 
 🔗 <https://vjs-wayney-joke-teller.netlify.app/>
@@ -43,7 +43,7 @@ This fun web app tells jokes using the Fetch API to retrieve jokes from an exter
 
 **Picture in Picture** - _Screen Capture API_<br>
 <em>
-This web app allows you to open a video in Picture-in-Picture mode, which lets you watch the video in a small floating window on top of other windows. It uses the Screen Capture API to capture a portion of the screen and display it in the Picture-in-Picture window.
+Opens a video in Picture-in-Picture mode by capturing a portion of the screen using the Screen Capture API.
 </em>
 
 🔗 <https://vjs-wayney-picture-in-picture.netlify.app/>
@@ -54,7 +54,7 @@ This web app allows you to open a video in Picture-in-Picture mode, which lets y
 
 **Light & Dark Mode** - _DOM, localStorage_<br>
 <em>
-This web app lets you switch between light and dark modes, which changes the color scheme of the app. It uses the DOM to dynamically switch the color scheme, and localStorage to store the user's preference.
+Lets users switch between light and dark modes by dynamically switching the color scheme using the DOM, and stores their preference using localStorage.
 </em>
 
 🔗 <https://vjs-wayney-light-dark-mode.netlify.app/>
@@ -64,7 +64,7 @@ This web app lets you switch between light and dark modes, which changes the col
 
 **Animated** - _Template, AOS.js_<br>
 <em>
-Impress your audience with this sleek and professional Animated web app. Built with the help of a template and AOS.js, this project is an excellent example of how to create visually stunning and responsive web apps with minimal effort.
+A visually stunning and responsive web app built with a template and AOS.js.
 </em>
 
 🔗 <https://vjs-wayney-animated.netlify.app/>
@@ -74,7 +74,7 @@ Impress your audience with this sleek and professional Animated web app. Built w
 
 **Navigation Nation** - _CSS Animations_<br>
 <em>
-Navigate your way through this captivating and interactive web app, featuring stunning CSS animations and smooth transitions. With the power of modern CSS, this project demonstrates how to create engaging and memorable web apps that captivate the user's attention.
+An interactive web app featuring captivating CSS animations and smooth transitions.
 </em>
 
 🔗 <https://vjs-wayney-navigation-nation.netlify.app/>
@@ -84,7 +84,7 @@ Navigate your way through this captivating and interactive web app, featuring st
 
 **Music Player** - _HTML 5 Audio API_<br>
 <em>
-Listen to your favorite tunes with this feature-rich and customizable Music Player web app. Powered by the HTML 5 Audio API and modern JavaScript technologies, this project showcases how to build performant and user-friendly web apps that leverage the power of the browser's built-in functionality.
+A feature-rich and customizable music player that leverages the HTML 5 Audio API and modern JavaScript technologies.
 </em>
 
 🔗 <https://vjs-wayney-music-player.netlify.app/>
@@ -94,7 +94,7 @@ Listen to your favorite tunes with this feature-rich and customizable Music Play
 
 **Custom Countdown** - _Date, localStorage_<br>
 <em>
-Count down to important events with this sleek and customizable Custom Countdown web app. Utilizing the Date object and localStorage, this project demonstrates how to create user-friendly and feature-rich web apps that make use of the browser's built-in functionality.
+A sleek and customizable countdown web app that utilizes the Date object and localStorage.
 </em>
 
 🔗 <https://vjs-wayney-custom-countdown.netlify.app/>
@@ -104,7 +104,7 @@ Count down to important events with this sleek and customizable Custom Countdown
 
 **Book Keeper** - _DOM, localStorage_<br>
 <em>
-This Book Keeper project is a handy tool to keep track of your reading list. It uses DOM manipulation and localStorage to create a simple and intuitive interface for adding and removing books from your list. The project teaches important concepts such as event handling, dynamic HTML generation, and working with browser storage.
+A tool to keep track of reading lists using DOM manipulation and localStorage.
 </em>
 
 🔗 <https://vjs-wayney-book-keeper.netlify.app/>
@@ -114,7 +114,7 @@ This Book Keeper project is a handy tool to keep track of your reading list. It 
 
 **Video Player** - _HTML 5 Video API_<br>
 <em>
-The Video Player project is a customizable HTML5 video player that showcases the power of the HTML5 video API. With features like play/pause, volume control, and a progress bar, this project demonstrates how to work with the HTML5 video element and use JavaScript to add interactive functionality to the player.
+A customizable HTML5 video player that adds interactive functionality using the HTML5 video element and JavaScript.
 </em>
 
 🔗 <https://vjs-wayney-video-player.netlify.app/>
@@ -124,7 +124,7 @@ The Video Player project is a customizable HTML5 video player that showcases the
 
 **Form Validator** - _DOM, Forms_<br>
 <em>
-Say goodbye to tedious form validation with the Form Validator website. With the power of pure JavaScript, HTML5, and CSS3, this website lets you validate input fields and display error messages to the user in real-time. Save time and enhance your users' experience with this convenient and easy-to-use form validation tool.
+A convenient form validation tool that validates input fields and displays error messages in real-time using pure JavaScript, HTML5, and CSS3.
 </em>
 
 🔗 <https://vjs-wayney-form-validator.netlify.app/>
@@ -134,7 +134,7 @@ Say goodbye to tedious form validation with the Form Validator website. With the
 
 **Spock Rock Game** - _Confetti.js, Modules_<br>
 <em>
-Join the intergalactic fun with the Spock Rock Game website. Built with pure JavaScript, HTML5, and CSS3, this website lets you play the classic game of Rock Paper Scissors with a Spock twist. With the added bonus of confetti animation powered by Confetti.js library and modules, this website brings an extra element of joy and excitement to your gaming experience.
+A fun game built with pure JavaScript, HTML, and CSS, featuring Confetti.js and Modules.
 </em>
 
 🔗 <https://vjs-wayney-spock-rock-game.netlify.app/>
@@ -144,7 +144,7 @@ Join the intergalactic fun with the Spock Rock Game website. Built with pure Jav
 
 **Nasa Pod** - _Fetch, Async/Await, NASA API, DOM, localStorage_<br>
 <em>
-The Nasa Pod project uses the NASA API to fetch the astronomy picture of the day and display it on the page. This project demonstrates advanced concepts such as asynchronous programming with Fetch and Async/Await, working with the DOM, and using localStorage to store user preferences. The beautiful imagery from NASA makes this project a joy to work on.
+A web app that fetches the astronomy picture of the day from the NASA API and displays it on the page using advanced concepts such as asynchronous programming, working with the DOM, and using localStorage.
 </em>
 
 🔗 <https://vjs-wayney-nasa-apod.netlify.app/>
@@ -154,7 +154,7 @@ The Nasa Pod project uses the NASA API to fetch the astronomy picture of the day
 
 **Math Sprint** - _SetInterval, DOM, Array Methods, localStorage_<br>
 <em>
-The Math Sprint project is a fun and challenging game that tests your math skills. With a simple interface and a timer, the game challenges you to answer as many math questions as you can before time runs out. This project teaches concepts such as using setInterval to create a timer, working with arrays, and dynamically updating the DOM.
+A fun and challenging game that tests your math skills by presenting a series of questions with a timer. It uses concepts such as setInterval, working with arrays, and dynamically updating the DOM.
 </em>
 
 🔗 <https://vjs-wayney-math-sprint.netlify.app/>
@@ -164,7 +164,7 @@ The Math Sprint project is a fun and challenging game that tests your math skill
 
 **Drag and Drop** - _Drag and Drop API, localStorage_<br>
 <em>
-The Drag and Drop project showcases the power of the HTML Drag and Drop API. It allows users to drag and drop items between two lists, and saves their preferences using localStorage. This project teaches important concepts such as working with the DOM, handling events, and using browser storage. The intuitive drag and drop functionality makes this project a great user experience.
+A web app that showcases the power of the HTML Drag and Drop API by allowing users to drag and drop items between two lists and saves their preferences using localStorage. It teaches important concepts such as working with the DOM, handling events, and using browser storage.
 </em>
 
 🔗 <https://vjs-wayney-drag-and-drop.netlify.app/>
@@ -174,7 +174,7 @@ The Drag and Drop project showcases the power of the HTML Drag and Drop API. It 
 
 **Calculator** - _Math Methods_<br>
 <em>
-The Calculator project is a classic web application that demonstrates the power of math methods in JavaScript. With a simple interface and basic functionality like addition, subtraction, multiplication, and division, this project teaches important concepts such as working with HTML forms, handling events, and using math methods in JavaScript
+A classic web application that demonstrates the power of math methods in JavaScript, with basic functionality such as addition, subtraction, multiplication, and division. It teaches important concepts such as working with HTML forms, handling events, and using math methods in JavaScript.
 </em>
 
 🔗 <https://vjs-wayney-calculator.netlify.app/>
@@ -184,7 +184,7 @@ The Calculator project is a classic web application that demonstrates the power 
 
 **Splash Page** - _DOM Basics_<br>
 <em>
-The Splash Page project is a simple landing page that showcases the basics of working with the DOM in JavaScript. With a single page and a few elements, this project teaches important concepts such as manipulating HTML and CSS using JavaScript, and handling events to create an interactive user experience.
+A simple landing page that showcases the basics of working with the DOM in JavaScript. It teaches important concepts such as manipulating HTML and CSS using JavaScript and handling events to create an interactive user experience.
 </em>
 
 🔗 <https://vjs-wayney-splash-page.netlify.app/>
@@ -194,7 +194,7 @@ The Splash Page project is a simple landing page that showcases the basics of wo
 
 **Paint Clone** - _Advanced HTML Canvas, localStorage_<br>
 <em>
-The Paint Clone project is a sophisticated HTML canvas application that allows users to draw and save their artwork using localStorage. With features like brush size, color selection, and an eraser, this project demonstrates the power and versatility of the HTML canvas element and teaches important concepts such as handling events, working with arrays, and using browser storage.
+A sophisticated HTML canvas application that allows users to draw and save their artwork using localStorage. It demonstrates the power and versatility of the HTML canvas element and teaches important concepts such as handling events, working with arrays, and using browser storage.
 </em>
 
 🔗 <https://vjs-wayney-paint-clone.netlify.app/>
@@ -204,7 +204,7 @@ The Paint Clone project is a sophisticated HTML canvas application that allows u
 
 **Ping Pong** - _Advanced HTML Canvas_<br>
 <em>
-The Ping Pong project is a fun and challenging game that showcases the power of the HTML canvas element. With a simple interface and smooth animation, this project teaches important concepts such as collision detection and object movement in 2D space. The website is built with pure JavaScript, HTML5, and CSS3, and features an intuitive interface that allows you to control your paddle with ease. The game is played against the computer, and you must score as many points as possible to win. With its retro graphics and addictive gameplay, Ping Pong is sure to keep you entertained for hours.
+A fun and challenging game that showcases the power of the HTML canvas element. It features collision detection and object movement in 2D space, and allows you to control your paddle with ease. The game is played against the computer, and you must score as many points as possible to win. It has retro graphics and addictive gameplay.
 </em>
 
 🔗 <https://vjs-wayney-ping-pong.netlify.app/>

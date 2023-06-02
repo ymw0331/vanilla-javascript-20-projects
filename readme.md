@@ -10,7 +10,7 @@
 Generates inspirational quotes using the Fetch API, Async/Await, and CORS to retrieve quotes from an external API.
 </em>
 
-🔗 <https://vjs-wayney-quote-generator.netlify.app/>
+🔗 <https://vjs-wayney-quote-generator.netlify.app>
 
 </li>
 
@@ -21,7 +21,7 @@ Generates inspirational quotes using the Fetch API, Async/Await, and CORS to ret
 Displays an infinite scroll of images by dynamically loading images from the Unsplash API using the Fetch API, Async/Await, and the DOM and Scroll Event Listener.
 </em>
 
-🔗 <https://vjs-wayney-infinity-scroll.netlify.app/>
+🔗 <https://vjs-wayney-infinity-scroll.netlify.app>
 
 </li>
 
@@ -32,7 +32,7 @@ Displays an infinite scroll of images by dynamically loading images from the Uns
 Tells jokes by retrieving them from an external Joke API using the Fetch API and Async/Await, and voices the jokes aloud using Text-to-Speech.
 </em>
 
-🔗 <https://vjs-wayney-joke-teller.netlify.app/>
+🔗 <https://vjs-wayney-joke-teller.netlify.app>
 
 </li>
 
@@ -43,7 +43,7 @@ Tells jokes by retrieving them from an external Joke API using the Fetch API and
 Opens a video in Picture-in-Picture mode by capturing a portion of the screen using the Screen Capture API.
 </em>
 
-🔗 <https://vjs-wayney-picture-in-picture.netlify.app/>
+🔗 <https://vjs-wayney-picture-in-picture.netlify.app>
 
 </li>
 
@@ -54,7 +54,7 @@ Opens a video in Picture-in-Picture mode by capturing a portion of the screen us
 Lets users switch between light and dark modes by dynamically switching the color scheme using the DOM, and stores their preference using localStorage.
 </em>
 
-🔗 <https://vjs-wayney-light-dark-mode.netlify.app/>
+🔗 <https://vjs-wayney-light-dark-mode.netlify.app>
 
 </li>
 <li>
@@ -64,7 +64,7 @@ Lets users switch between light and dark modes by dynamically switching the colo
 A visually stunning and responsive web app built with a template and AOS.js.
 </em>
 
-🔗 <https://vjs-wayney-animated.netlify.app/>
+🔗 <https://vjs-wayney-animated.netlify.app>
 
 </li>
 <li>
@@ -74,7 +74,7 @@ A visually stunning and responsive web app built with a template and AOS.js.
 An interactive web app featuring captivating CSS animations and smooth transitions.
 </em>
 
-🔗 <https://vjs-wayney-navigation-nation.netlify.app/>
+🔗 <https://vjs-wayney-navigation-nation.netlify.app>
 
 </li>
 <li>
@@ -84,7 +84,7 @@ An interactive web app featuring captivating CSS animations and smooth transitio
 A feature-rich and customizable music player that leverages the HTML 5 Audio API and modern JavaScript technologies.
 </em>
 
-🔗 <https://vjs-wayney-music-player.netlify.app/>
+🔗 <https://vjs-wayney-music-player.netlify.app>
 
 </li>
 <li>
@@ -94,7 +94,7 @@ A feature-rich and customizable music player that leverages the HTML 5 Audio API
 A sleek and customizable countdown web app that utilizes the Date object and localStorage.
 </em>
 
-🔗 <https://vjs-wayney-custom-countdown.netlify.app/>
+🔗 <https://vjs-wayney-custom-countdown.netlify.app>
 
 </li>
 <li>
@@ -104,7 +104,7 @@ A sleek and customizable countdown web app that utilizes the Date object and loc
 A tool to keep track of reading lists using DOM manipulation and localStorage.
 </em>
 
-🔗 <https://vjs-wayney-book-keeper.netlify.app/>
+🔗 <https://vjs-wayney-book-keeper.netlify.app>
 
 </li>
 <li>
@@ -114,7 +114,7 @@ A tool to keep track of reading lists using DOM manipulation and localStorage.
 A customizable HTML5 video player that adds interactive functionality using the HTML5 video element and JavaScript.
 </em>
 
-🔗 <https://vjs-wayney-video-player.netlify.app/>
+🔗 <https://vjs-wayney-video-player.netlify.app>
 
 </li>
 <li>
@@ -124,7 +124,7 @@ A customizable HTML5 video player that adds interactive functionality using the 
 A convenient form validation tool that validates input fields and displays error messages in real-time using pure JavaScript, HTML5, and CSS3.
 </em>
 
-🔗 <https://vjs-wayney-form-validator.netlify.app/>
+🔗 <https://vjs-wayney-form-validator.netlify.app>
 
 </li>
 <li>
@@ -134,7 +134,7 @@ A convenient form validation tool that validates input fields and displays error
 A fun game built with pure JavaScript, HTML, and CSS, featuring Confetti.js and Modules.
 </em>
 
-🔗 <https://vjs-wayney-spock-rock-game.netlify.app/>
+🔗 <https://vjs-wayney-spock-rock-game.netlify.app>
 
 </li>
 <li>
@@ -144,7 +144,7 @@ A fun game built with pure JavaScript, HTML, and CSS, featuring Confetti.js and 
 A web app that fetches the astronomy picture of the day from the NASA API and displays it on the page using advanced concepts such as asynchronous programming, working with the DOM, and using localStorage.
 </em>
 
-🔗 <https://vjs-wayney-nasa-apod.netlify.app/>
+🔗 <https://vjs-wayney-nasa-apod.netlify.app>
 
 </li>
 <li>
@@ -154,7 +154,7 @@ A web app that fetches the astronomy picture of the day from the NASA API and di
 A fun and challenging game that tests your math skills by presenting a series of questions with a timer. It uses concepts such as setInterval, working with arrays, and dynamically updating the DOM.
 </em>
 
-🔗 <https://vjs-wayney-math-sprint.netlify.app/>
+🔗 <https://vjs-wayney-math-sprint.netlify.app>
 
 </li>
 <li>
@@ -164,7 +164,7 @@ A fun and challenging game that tests your math skills by presenting a series of
 A web app that showcases the power of the HTML Drag and Drop API by allowing users to drag and drop items between two lists and saves their preferences using localStorage. It teaches important concepts such as working with the DOM, handling events, and using browser storage.
 </em>
 
-🔗 <https://vjs-wayney-drag-and-drop.netlify.app/>
+🔗 <https://vjs-wayney-drag-and-drop.netlify.app>
 
 </li>
 <li>
@@ -174,7 +174,7 @@ A web app that showcases the power of the HTML Drag and Drop API by allowing use
 A classic web application that demonstrates the power of math methods in JavaScript, with basic functionality such as addition, subtraction, multiplication, and division. It teaches important concepts such as working with HTML forms, handling events, and using math methods in JavaScript.
 </em>
 
-🔗 <https://vjs-wayney-calculator.netlify.app/>
+🔗 <https://vjs-wayney-calculator.netlify.app>
 
 </li>
 <li>
@@ -184,7 +184,7 @@ A classic web application that demonstrates the power of math methods in JavaScr
 A simple landing page that showcases the basics of working with the DOM in JavaScript. It teaches important concepts such as manipulating HTML and CSS using JavaScript and handling events to create an interactive user experience.
 </em>
 
-🔗 <https://vjs-wayney-splash-page.netlify.app/>
+🔗 <https://vjs-wayney-splash-page.netlify.app>
 
 </li>
 <li>
@@ -194,7 +194,7 @@ A simple landing page that showcases the basics of working with the DOM in JavaS
 A sophisticated HTML canvas application that allows users to draw and save their artwork using localStorage. It demonstrates the power and versatility of the HTML canvas element and teaches important concepts such as handling events, working with arrays, and using browser storage.
 </em>
 
-🔗 <https://vjs-wayney-paint-clone.netlify.app/>
+🔗 <https://vjs-wayney-paint-clone.netlify.app>
 
 </li>
 <li>
@@ -204,7 +204,7 @@ A sophisticated HTML canvas application that allows users to draw and save their
 A fun and challenging game that showcases the power of the HTML canvas element. It features collision detection and object movement in 2D space, and allows you to control your paddle with ease. The game is played against the computer, and you must score as many points as possible to win. It has retro graphics and addictive gameplay.
 </em>
 
-🔗 <https://vjs-wayney-ping-pong.netlify.app/>
+🔗 <https://vjs-wayney-ping-pong.netlify.app>
 
 </li>
 

@@ -1,4 +1,4 @@
-#### This is a list of 20 projects that I learned from the ZTM JS-20-Projects course, which I can use as references for future projects. Each project was built using pure JavaScript, HTML5, and CSS3, and taught me best practices for building responsive and mobile-first web applications.
+#### A list of 20 projects from the ZTM JS-20-Projects course. Each project built using pure JavaScript, HTML5, and CSS3, and built with best practices for building responsive and mobile-first web applications.
 
 
 <ol>
